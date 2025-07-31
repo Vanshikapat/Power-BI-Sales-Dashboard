@@ -57,8 +57,8 @@ This project showcases an interactive Power BI dashboard built to analyze sales 
 - Great example of KPI reporting, trend analysis, and drill-down capabilities
 
 - ## 📷 Dashboard Preview
-
 ![E-commerce Sales Dashboard](e-commerce-dashboard)
+<img width="1232" height="677" alt="E-commerce sales" src="https://github.com/user-attachments/assets/e002e705-65db-461a-9f26-3e8fe01b2c99" />
 
 
 
